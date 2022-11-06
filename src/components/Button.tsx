@@ -1,6 +1,5 @@
 interface ButtonProps extends React.ButtonHTMLAttributes<HTMLButtonElement> {
   title: string;
-  showIcon?: boolean;
 }
 
 export function Button({ title, ...props }: ButtonProps) {
