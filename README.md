@@ -1,7 +1,7 @@
 
 # Formulário 
 
-Formulário feito com React + Typescript 
+Formulário feito com React + Typescript + React-Hook-form fazendo validação.
 
 ## Screenshots
 
